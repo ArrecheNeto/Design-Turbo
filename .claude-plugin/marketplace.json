@@ -1,0 +1,13 @@
+{
+  "name": "design-turbo",
+  "owner": {
+    "name": "Helio Arreche"
+  },
+  "plugins": [
+    {
+      "name": "design-turbo",
+      "source": "./",
+      "description": "Stack de repertório visual para o Claude criar sites cinematográficos: direção de arte frontend, GSAP + scroll animations, Three.js, parallax landings, mundos de scroll imersivos e jogos 3D no navegador."
+    }
+  ]
+}
