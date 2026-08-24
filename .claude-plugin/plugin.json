@@ -1,0 +1,9 @@
+{
+  "name": "design-turbo",
+  "version": "0.1.0",
+  "description": "Stack de repertório visual para o Claude criar sites cinematográficos: direção de arte frontend, GSAP + scroll animations, Three.js, parallax landings, mundos de scroll imersivos e jogos 3D no navegador.",
+  "author": {
+    "name": "Helio Arreche"
+  },
+  "keywords": ["design", "frontend", "gsap", "threejs", "parallax", "landing-page", "scrollytelling", "3d"]
+}
